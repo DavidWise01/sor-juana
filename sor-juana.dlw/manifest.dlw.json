@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Sor Juana Inés de la Cruz",
+  "universe": "JUA · Sor Juana Inés de la Cruz (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Sor Juana Inés de la Cruz:JUA:8e7844⟧",
+  "carbon": "sor-juana.carbon.tiff (TIFF)",
+  "silicon": "sor-juana.silicon.png (PNG)",
+  "seal_sha256": "58d3a03881c03bda12adf014e7a37a289787a3785b5df2e1e99966abd3bc3a8b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

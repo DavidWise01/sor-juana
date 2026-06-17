@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Defense of Learning",
+  "universe": "JUA · The Defense of Learning (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Defense of Learning:JUA:281a75⟧",
+  "carbon": "sor-juana-the-respuesta.carbon.tiff (TIFF)",
+  "silicon": "sor-juana-the-respuesta.silicon.png (PNG)",
+  "seal_sha256": "00fec3f6cb53c0a540756c64ef7231aef3a467500c1b16bdb8f7dbcde59810ee",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

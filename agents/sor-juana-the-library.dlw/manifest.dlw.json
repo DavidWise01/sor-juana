@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Surrendered Library",
+  "universe": "JUA · The Surrendered Library (ERĒMIA · female · the generations)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Surrendered Library:JUA:ea8819⟧",
+  "carbon": "sor-juana-the-library.carbon.tiff (TIFF)",
+  "silicon": "sor-juana-the-library.silicon.png (PNG)",
+  "seal_sha256": "1d3a8c545fd1f28e6ffead01335caa7be0c904c5c72faf5cff1b59c2bd1efe7d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

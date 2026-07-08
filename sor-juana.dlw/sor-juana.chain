@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 741
+slug  : sor-juana
+seal  : 58d3a03881c03bda12adf014e7a37a289787a3785b5df2e1e99966abd3bc3a8b
+prev  : 005aa8d6f5b8107ae4ea728be677f24cd751ab74f0f4645371fb9f1b733a7299
+link  : 5423b04808e49fd54c7fb1c32f1a557b435a2d5d87423b53d53a850b3ae6cc23
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
